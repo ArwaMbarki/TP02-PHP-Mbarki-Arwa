@@ -6,6 +6,8 @@ Programmation web 2 - 2026/2027
  Prénom : Arwa
  Groupe : 03
  Titre : Programmation Web 2 - TP PHP
+## Réalisation du TP
+Ce travail pratique a été réalisé en collaboration avec ma camarade HIBATOLAH RIDA . Nous avons travaillé ensemble sur les différents exercices afin de comprendre et d'appliquer les notions étudiées en programmation PHP.
 
 ## Liste des exercices
  Exercice 1
